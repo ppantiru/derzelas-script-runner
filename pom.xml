@@ -34,7 +34,7 @@
   <name>Derzelas Script Runner</name>
   <version>1.0-SNAPSHOT</version>
   <packaging>xar</packaging>
-  <description>An application that simplifies the running scripts on large number of documents from different spaces and even different wikis.</description>
+  <description>An application that simplifies running scripts on large number of documents from one or more wikis.</description>
   <properties>
     <xwiki.version>6.4</xwiki.version>
     <!-- Name to display by the Extension Manager -->
